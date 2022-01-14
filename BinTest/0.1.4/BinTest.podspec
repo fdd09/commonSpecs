@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/dongwang.feng/BinTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'dongwang.feng' => 'dongwang.feng@amh-group.com' }
+  s.author           = { 'dongwang.feng' => 'dongwang' }
   s.source           = { :git => 'git@github.com:fdd09/binTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
